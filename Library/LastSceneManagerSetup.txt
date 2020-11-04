@@ -1,5 +1,5 @@
 sceneSetups:
-- path: D:/Project/Brackey/Scriptable-Objects/Scriptable Objects/Assets/Main.unity
-  isLoaded: 1
-  isActive: 1
+- path: Assets/Scenes/SampleScene.unity
+  isLoaded: 0
+  isActive: 0
   isSubScene: 0
