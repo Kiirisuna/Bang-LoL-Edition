@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f343cb8edea58984bb5a14f10641f376, type: 3}
+  m_Name: BartCassidy
+  m_EditorClassIdentifier: 
+  name: Sett
+  description: Each time he is hit, he draws a card.
+  artwork: {fileID: 0}
+  range: 1
+  health: 4
+  damage: 1
+  miss: 1
+  attack: 1
